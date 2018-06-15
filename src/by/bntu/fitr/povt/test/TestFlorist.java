@@ -23,6 +23,6 @@ public class TestFlorist {
 
     @Test
     public void testCreateBouquet() throws NullPointerException {
-        assertNotNull(florist.createBouquet());
+        assertNotNull(florist.createBouquet("R", "Yellow"));
     }
 }

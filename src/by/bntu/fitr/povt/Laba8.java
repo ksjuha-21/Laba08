@@ -1,5 +1,6 @@
-package by.bntu.fitr.povt.controller;
+package by.bntu.fitr.povt;
 
+import by.bntu.fitr.povt.controller.Controller;
 import by.bntu.fitr.povt.view.View;
 
 /**
